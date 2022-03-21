@@ -1,0 +1,1395 @@
+[23:36:32] [INFO]: Loading display...
+[23:36:32] [INFO]: Platform:
+[23:36:32] [INFO]:   Display:
+[23:36:32] [INFO]:       Resolution: 1366x768
+[23:36:32] [INFO]:       Scale: auto (min: x1, max: x1)
+[23:36:32] [INFO]:       Styles:
+[23:36:32] [INFO]:           - "default"
+[23:36:32] [INFO]:   OS: WINDOWS (Windows 10)
+[23:36:32] [INFO]:   Arch: x64 (amd64)
+[23:36:32] [INFO]:   Total memory: 8067mb
+[23:36:32] [INFO]:   Allowed memory: 8067mb
+[23:36:32] [INFO]: Loading textures of style <default>...
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/window.default.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/btn.app.close.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/header.social.vk.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/window.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/settings/launcher.memory.slider.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/client.icon.png
+[23:36:32] [INFO]:    assets/textures/gui/default/auth/field.pass.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/settings/launcher.scale.background.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/progressbar.download.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/header.profile.popup.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/settings/btn.confirm.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/client.background.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/header.logo.png
+[23:36:32] [INFO]:    assets/textures/gui/default/auth/btn.sign.icon.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/settings/client.dlc.checkbox.png
+[23:36:32] [INFO]:    assets/textures/gui/default/comp/checkbox.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/header.social.discord.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/header.profile.user.steve.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/settings/launcher.scale.arrow.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/window.downloader.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/client.options.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/header.app.minimize.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/settings/client.dlc.background.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/header.profile.form.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/header.background.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/header.profile.user.mask.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/settings/btn.default.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/field.secret_key.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/root.scrollbar.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/btn.app.minimize.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/logo.loader.png
+[23:36:32] [INFO]:    assets/textures/gui/default/auth/btn.sign.background.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/window.loader.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/btn.default.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/header.logout.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/client.play.png
+[23:36:32] [INFO]:    assets/textures/gui/default/auth/field.login.png
+[23:36:32] [INFO]:    assets/textures/gui/default/auth/btn.join.png
+[23:36:32] [INFO]:    assets/textures/gui/default/main/header.app.close.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/settings/client.dlc.scrollbar.png
+[23:36:32] [INFO]:    assets/textures/gui/default/dialog/settings/comp.border.png
+[23:36:32] [INFO]: Loading profile...
+[23:36:32] [INFO]: Profile cache not found!
+[23:36:32] [INFO]: Handshaking...
+[23:36:44] [INFO]: Auth with login <Irz98>
+[23:36:45] [INFO]: Auth response: invalid_user
+[23:36:45] [INFO]: Saving profile...
+[23:36:49] [INFO]: Auth with login <Irz98>
+[23:36:49] [INFO]: Auth response: success
+[23:36:49] [INFO]: Permissions:
+[23:36:49] [INFO]:    - "dev.run.invalidate.post"
+[23:36:49] [INFO]:    - "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz¿¡¬√ƒ≈®∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰Â∏ÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ"
+[23:36:49] [INFO]: Styles:
+[23:36:49] [INFO]:    - "default"
+[23:36:49] [INFO]: Saving display...
+[23:36:49] [INFO]: Loading textures of style <default>...
+[23:36:50] [INFO]: Saving profile...
+[23:36:50] [INFO]: Updating server-list...
+[23:36:50] [INFO]: Loading server-list caches...
+[23:36:50] [INFO]: Server-list caches not found!
+[23:36:50] [INFO]: Updating server-content <CLASSIC>...
+[23:36:50] [INFO]: Downloading bundle: <ee3adc3cf63f2f11a5d1a3126762c710>
+[23:36:50] [INFO]: Updating server-content <INDUSTRIAL>...
+[23:36:50] [INFO]: Downloading bundle: <d93dc43f5fa3e562a40cc08218d9ecd1>
+[23:36:50] [INFO]: Updating server-content <TECHNOMAGIC>...
+[23:36:50] [INFO]: Downloading bundle: <f4bc47c3110d72022988f384d76827c7>
+[23:36:51] [INFO]: Updating server-content <TECHNOMAGICTEST>...
+[23:36:51] [INFO]: Downloading bundle: <aeb479a71c298f81e81fa6ee4057b793>
+[23:36:51] [INFO]: Updating server-content <RPG>...
+[23:36:51] [INFO]: Downloading bundle: <6be54ae16a6b5e28e01a14da77cb3e28>
+[23:36:51] [INFO]: Updating server-content <MAGIC>...
+[23:36:51] [INFO]: Downloading bundle: <431f49d86f58d0a6939f1bc49daa332a>
+[23:36:51] [INFO]: Updating server-content <SANDBOX>...
+[23:36:51] [INFO]: Downloading bundle: <e587daff27d606af5d32bb538f0d39ea>
+[23:36:52] [INFO]: Updating server-content <TECHNOMAGICEVO>...
+[23:36:52] [INFO]: Downloading bundle: <b5f46a453e4e6e7133e1ca05bbf165df>
+[23:36:52] [INFO]: Updating server-content <GALAXY2>...
+[23:36:52] [INFO]: Downloading bundle: <d22066ccce602c142ed74df8adc7cdfe>
+[23:36:52] [INFO]: Updating server-content <GREGTECH>...
+[23:36:52] [INFO]: Downloading bundle: <d00c33abe92752c4db6bb6b2f092dbe9>
+[23:36:53] [INFO]: Updating server-content <SKYFACTORY>...
+[23:36:53] [INFO]: Downloading bundle: <8c8d7231b2ac53ceafc75731d933e8f3>
+[23:36:53] [INFO]: Updating server-content <ONEBLOCK>...
+[23:36:53] [INFO]: Downloading bundle: <41c91bfd91895a3b4edd647fce37ce1c>
+[23:36:53] [INFO]: Updating server-content <WIZARDRY>...
+[23:36:53] [INFO]: Downloading bundle: <52ec18ad96422b9df980b49f0ed12734>
+[23:36:53] [INFO]: Updating server-content <PIXELMON>...
+[23:36:53] [INFO]: Downloading bundle: <0cbb3d6254db37008dd868adc53879c2>
+[23:36:54] [INFO]: Updating server-content <TERRAFIRMACRAFT>...
+[23:36:54] [INFO]: Downloading bundle: <ad4f04b31874581f0b5958a02c21b82d>
+[23:36:54] [INFO]: Updating server-content <FORGE1165>...
+[23:36:54] [INFO]: Downloading bundle: <179ea19b2ca9f12b1e77fb2b2d6badbc>
+[23:36:54] [INFO]: Updating server-content <STALKER>...
+[23:36:54] [INFO]: Downloading bundle: <25f579786026228a0c361b61c862980e>
+[23:36:55] [INFO]: Updating server-content <STALKERV2>...
+[23:36:55] [INFO]: Downloading bundle: <b81b8bbfbbbc559c9b2afa2764af53d3>
+[23:36:55] [INFO]: Saving server-list caches...
+[23:37:17] [INFO]: ------------------------------------
+[23:37:17] [INFO]: Preparing client <INDUSTRIAL>
+[23:37:17] [INFO]: Checking content files...
+[23:37:17] [INFO]: Downloading files...
+[23:37:17] [INFO]: Total-size: 273105696 bytes
+[23:37:17] [INFO]: ------------------------------------
+[23:37:17] [INFO]: file: LIBS:LIBFORGE_1_7_10_V2
+[23:37:17] [INFO]: size: 42773474 bytes
+[23:37:17] [INFO]: from: http://ex-server.ru/1710_clients/libraries/ex/1.7.10/libforge_1.7.10_v2.jar
+[23:37:17] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\libraries\ex\1.7.10\libforge_1.7.10_v2.jar
+[23:37:17] [INFO]: downloading (attempt: 1)...
+[23:37:20] [INFO]: ------------------------------------
+[23:37:20] [INFO]: file: LIBS:OSHI_CORE
+[23:37:20] [INFO]: size: 30973 bytes
+[23:37:20] [INFO]: from: http://ex-server.ru/1710_clients/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+[23:37:20] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+[23:37:20] [INFO]: downloading (attempt: 1)...
+[23:37:20] [INFO]: ------------------------------------
+[23:37:20] [INFO]: file: LIBS:JNA_JNA
+[23:37:20] [INFO]: size: 1091208 bytes
+[23:37:20] [INFO]: from: http://ex-server.ru/1710_clients/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+[23:37:20] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+[23:37:20] [INFO]: downloading (attempt: 1)...
+[23:37:20] [INFO]: ------------------------------------
+[23:37:20] [INFO]: file: LIBS:JNA_PLATFORM
+[23:37:20] [INFO]: size: 913436 bytes
+[23:37:20] [INFO]: from: http://ex-server.ru/1710_clients/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+[23:37:20] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+[23:37:20] [INFO]: downloading (attempt: 1)...
+[23:37:21] [INFO]: ------------------------------------
+[23:37:21] [INFO]: file: LIBS:FORGE_1388
+[23:37:21] [INFO]: size: 2768400 bytes
+[23:37:21] [INFO]: from: http://ex-server.ru/1710_clients/libraries/ex/1.7.10/forge_1388.jar
+[23:37:21] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\libraries\ex\1.7.10\forge_1388.jar
+[23:37:21] [INFO]: downloading (attempt: 1)...
+[23:37:21] [INFO]: ------------------------------------
+[23:37:21] [INFO]: file: LIBS:AUTHLIB_1_5_21
+[23:37:21] [INFO]: size: 65478 bytes
+[23:37:21] [INFO]: from: http://ex-server.ru/1710_clients/libraries/com/mojang/authlib/1.5.21/authlib-1.5.21.jar
+[23:37:21] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar
+[23:37:21] [INFO]: downloading (attempt: 1)...
+[23:37:21] [INFO]: ------------------------------------
+[23:37:21] [INFO]: file: LIBS:LEGACYMCKOTLIN
+[23:37:21] [INFO]: size: 1406312 bytes
+[23:37:21] [INFO]: from: http://ex-server.ru/1710_clients/libraries/kotlin/legacymckotlin-1.7.10.jar
+[23:37:21] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\libraries\kotlin\legacymckotlin-1.7.10.jar
+[23:37:21] [INFO]: downloading (attempt: 1)...
+[23:37:21] [INFO]: ------------------------------------
+[23:37:21] [INFO]: file: LIBS:RESOURCE
+[23:37:21] [INFO]: size: 4979050 bytes
+[23:37:21] [INFO]: from: http://ex-server.ru/1710_clients/libraries/ex/1.7.10/resource-industrial.jar
+[23:37:21] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\libraries\ex\1.7.10\resource-industrial.jar
+[23:37:21] [INFO]: downloading (attempt: 1)...
+[23:37:22] [INFO]: ------------------------------------
+[23:37:22] [INFO]: file: LIBS:MINECRAFT_1_7_10
+[23:37:22] [INFO]: size: 4996772 bytes
+[23:37:22] [INFO]: from: http://ex-server.ru/1710_clients/libraries/ex/1.7.10/minecraft_1.7.10.jar
+[23:37:22] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\libraries\ex\1.7.10\minecraft_1.7.10.jar
+[23:37:22] [INFO]: downloading (attempt: 1)...
+[23:37:22] [INFO]: ------------------------------------
+[23:37:22] [INFO]: file: SERVERLIST:MAIN
+[23:37:22] [INFO]: size: 2178 bytes
+[23:37:22] [INFO]: from: http://ex-server.ru/server_list/industrial_servers.dat
+[23:37:22] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\servers.dat
+[23:37:22] [INFO]: downloading (attempt: 1)...
+[23:37:22] [INFO]: ------------------------------------
+[23:37:22] [INFO]: file: SERVERLIST_HACH:MAIN
+[23:37:22] [INFO]: size: 792 bytes
+[23:37:22] [INFO]: from: http://ex-server.ru/server_list/netty.hash
+[23:37:22] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\libraries\io\netty\netty-all\netty.hash
+[23:37:22] [INFO]: downloading (attempt: 1)...
+[23:37:22] [INFO]: ------------------------------------
+[23:37:22] [INFO]: file: NATIVES:NATIVES_1_7_10
+[23:37:22] [INFO]: size: 2292814 bytes
+[23:37:22] [INFO]: from: http://ex-server.ru/1710_clients/zip/natives_1710.zip
+[23:37:22] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\zip1710\natives_1710.zip
+[23:37:22] [INFO]: downloading (attempt: 1)...
+[23:37:22] [INFO]: extracting (attempt: 1)...
+[23:37:23] [INFO]: ------------------------------------
+[23:37:23] [INFO]: file: NATIVES:NATIVESC_1_7_10
+[23:37:23] [INFO]: size: 266836 bytes
+[23:37:23] [INFO]: from: http://ex-server.ru/1710_clients/zip/nativesc_1710.zip
+[23:37:23] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\zip1710\nativesc_1710.zip
+[23:37:23] [INFO]: downloading (attempt: 1)...
+[23:37:23] [INFO]: extracting (attempt: 1)...
+[23:37:23] [INFO]: ------------------------------------
+[23:37:23] [INFO]: file: ASSETS:MAIN
+[23:37:23] [INFO]: size: 109000198 bytes
+[23:37:23] [INFO]: from: http://ex-server.ru/1710_clients/zip/assets_1710.zip
+[23:37:23] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\zip1710\assets_1710.zip
+[23:37:23] [INFO]: downloading (attempt: 1)...
+[23:37:36] [INFO]: extracting (attempt: 1)...
+[23:37:39] [INFO]: ------------------------------------
+[23:37:39] [INFO]: file: ZIP:CONFIG
+[23:37:39] [INFO]: size: 105129 bytes
+[23:37:39] [INFO]: from: http://ex-server.ru/1710_clients/zip/config_industrial.zip
+[23:37:39] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\zip1710\config_industrial.zip
+[23:37:39] [INFO]: downloading (attempt: 1)...
+[23:37:39] [INFO]: extracting (attempt: 1)...
+[23:37:40] [INFO]: ------------------------------------
+[23:37:40] [INFO]: file: ZIP:CONFIG_MINECRAFT
+[23:37:40] [INFO]: size: 2301 bytes
+[23:37:40] [INFO]: from: http://ex-server.ru/1710_clients/zip/config_industrial_minecraft.zip
+[23:37:40] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\zip1710\config_industrial_minecraft.zip
+[23:37:40] [INFO]: downloading (attempt: 1)...
+[23:37:40] [INFO]: extracting (attempt: 1)...
+[23:37:40] [INFO]: ------------------------------------
+[23:37:40] [INFO]: file: ZIP:RESOURCEPACKS_DEFAULT_1710
+[23:37:40] [INFO]: size: 10272 bytes
+[23:37:40] [INFO]: from: http://ex-server.ru/1710_clients/zip/resourcepacks_default_1710.zip
+[23:37:40] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\zip1710\resourcepacks_default_1710.zip
+[23:37:40] [INFO]: downloading (attempt: 1)...
+[23:37:40] [INFO]: extracting (attempt: 1)...
+[23:37:40] [INFO]: ------------------------------------
+[23:37:40] [INFO]: file: ZIP:HATS_1710
+[23:37:40] [INFO]: size: 846533 bytes
+[23:37:40] [INFO]: from: http://ex-server.ru/1710_clients/zip/hats_1710.zip
+[23:37:40] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\zip1710\hats_1710.zip
+[23:37:40] [INFO]: downloading (attempt: 1)...
+[23:37:41] [INFO]: extracting (attempt: 1)...
+[23:37:42] [INFO]: ------------------------------------
+[23:37:42] [INFO]: file: ZIP:ASSETS_WARDROBE
+[23:37:42] [INFO]: size: 8264660 bytes
+[23:37:42] [INFO]: from: http://ex-server.ru/assets_wardrobe/assets_wardrobe.zip
+[23:37:42] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\assets_wardrobe\assets_wardrobe.zip
+[23:37:42] [INFO]: downloading (attempt: 1)...
+[23:37:47] [INFO]: extracting (attempt: 1)...
+[23:37:47] [INFO]: ------------------------------------
+[23:37:47] [INFO]: file: MODS:BAUBLES_1710_10110
+[23:37:47] [INFO]: size: 96785 bytes
+[23:37:47] [INFO]: from: http://ex-server.ru/1710_clients/mods/1.7.10/Baubles-1.7.10-1.0.1.10.jar
+[23:37:47] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\1.7.10\Baubles-1.7.10-1.0.1.10.jar
+[23:37:47] [INFO]: downloading (attempt: 1)...
+[23:37:48] [INFO]: ------------------------------------
+[23:37:48] [INFO]: file: MODS:CODECHICKENLIB_1710_113136_UNIVERSAL
+[23:37:48] [INFO]: size: 302844 bytes
+[23:37:48] [INFO]: from: http://ex-server.ru/1710_clients/mods/1.7.10/CodeChickenLib-1.7.10-1.1.3.136-universal.jar
+[23:37:48] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\1.7.10\CodeChickenLib-1.7.10-1.1.3.136-universal.jar
+[23:37:48] [INFO]: downloading (attempt: 1)...
+[23:37:48] [INFO]: ------------------------------------
+[23:37:48] [INFO]: file: MODS:FORGEMULTIPART_1710_120344_UNIVERSAL
+[23:37:48] [INFO]: size: 1427682 bytes
+[23:37:48] [INFO]: from: http://ex-server.ru/1710_clients/mods/1.7.10/ForgeMultipart-1.7.10-1.2.0.344-universal.jar
+[23:37:48] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\1.7.10\ForgeMultipart-1.7.10-1.2.0.344-universal.jar
+[23:37:48] [INFO]: downloading (attempt: 1)...
+[23:37:48] [INFO]: ------------------------------------
+[23:37:48] [INFO]: file: MODS:MRTJPCORE_1710_10816_UNIVERSAL
+[23:37:48] [INFO]: size: 522341 bytes
+[23:37:48] [INFO]: from: http://ex-server.ru/1710_clients/mods/1.7.10/MrTJPCore-1.7.10-1.0.8.16-universal.jar
+[23:37:48] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\1.7.10\MrTJPCore-1.7.10-1.0.8.16-universal.jar
+[23:37:48] [INFO]: downloading (attempt: 1)...
+[23:37:49] [INFO]: ------------------------------------
+[23:37:49] [INFO]: file: MODS:1710BSPKRSCORE_UNIVERSAL_615
+[23:37:49] [INFO]: size: 198933 bytes
+[23:37:49] [INFO]: from: http://ex-server.ru/1710_clients/mods/1.7.10/[1.7.10]bspkrsCore-universal-6.15.jar
+[23:37:49] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\1.7.10\[1.7.10]bspkrsCore-universal-6.15.jar
+[23:37:49] [INFO]: downloading (attempt: 1)...
+[23:37:49] [INFO]: ------------------------------------
+[23:37:49] [INFO]: file: MODS:EJML_CORE_026
+[23:37:49] [INFO]: size: 341614 bytes
+[23:37:49] [INFO]: from: http://ex-server.ru/1710_clients/mods/ic2/EJML-core-0.26.jar
+[23:37:49] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\ic2\EJML-core-0.26.jar
+[23:37:49] [INFO]: downloading (attempt: 1)...
+[23:37:49] [INFO]: ------------------------------------
+[23:37:49] [INFO]: file: MODS:C0_MINETUNER12
+[23:37:49] [INFO]: size: 24401 bytes
+[23:37:49] [INFO]: from: http://ex-server.ru/1710_clients/mods/c0-MineTuner12.jar
+[23:37:49] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c0-MineTuner12.jar
+[23:37:49] [INFO]: downloading (attempt: 1)...
+[23:37:49] [INFO]: ------------------------------------
+[23:37:49] [INFO]: file: MODS:C0_HARDWAREINFO
+[23:37:49] [INFO]: size: 5787 bytes
+[23:37:49] [INFO]: from: http://ex-server.ru/1710_clients/mods/c0-HardwareInfo1710.jar
+[23:37:49] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c0-HardwareInfo1710.jar
+[23:37:49] [INFO]: downloading (attempt: 1)...
+[23:37:49] [INFO]: ------------------------------------
+[23:37:49] [INFO]: file: MODS:C0_OPTIFINEHDUC1
+[23:37:49] [INFO]: size: 548299 bytes
+[23:37:49] [INFO]: from: http://ex-server.ru/1710_clients/mods/c0-OptiFineHDUC1.jar
+[23:37:49] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c0-OptiFineHDUC1.jar
+[23:37:49] [INFO]: downloading (attempt: 1)...
+[23:37:49] [INFO]: ------------------------------------
+[23:37:49] [INFO]: file: MODS:C0_OPTIFINERUS_C
+[23:37:49] [INFO]: size: 76137 bytes
+[23:37:49] [INFO]: from: http://ex-server.ru/1710_clients/mods/c0-optifineRus-C.jar
+[23:37:49] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c0-optifineRus-C.jar
+[23:37:49] [INFO]: downloading (attempt: 1)...
+[23:37:49] [INFO]: ------------------------------------
+[23:37:49] [INFO]: file: MODS:C1_XAEROSMINIMAP_INDUSTRIAL
+[23:37:49] [INFO]: size: 719150 bytes
+[23:37:49] [INFO]: from: http://ex-server.ru/1710_clients/mods_minimap/c1-XaerosMinimap_211014_industrial.jar
+[23:37:49] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c1-XaerosMinimap_211014_industrial.jar
+[23:37:49] [INFO]: downloading (attempt: 1)...
+[23:37:49] [INFO]: ------------------------------------
+[23:37:49] [INFO]: file: MODS:C2_CHATBUBBLES1710
+[23:37:49] [INFO]: size: 27893 bytes
+[23:37:49] [INFO]: from: http://ex-server.ru/1710_clients/mods/c2-ChatBubbles1710.jar
+[23:37:49] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c2-ChatBubbles1710.jar
+[23:37:49] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:C3_WORLDEDITCUI1710
+[23:37:50] [INFO]: size: 74898 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/c3-WorldEditCUI1710.jar
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c3-WorldEditCUI1710.jar
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:C4_IC2BACKPACKHUDV3
+[23:37:50] [INFO]: size: 17178 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/c4-IC2BackpackHUDv3.zip
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c4-IC2BackpackHUDv3.zip
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:C9_CODECHICKENCORE10429
+[23:37:50] [INFO]: size: 155885 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/c9-CodeChickenCore10429.jar
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c9-CodeChickenCore10429.jar
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:C9_NEIADDONS1121440
+[23:37:50] [INFO]: size: 101777 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/c9-neiaddons1121440.jar
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c9-neiaddons1121440.jar
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:C9_NEIINTEGRATIONMC112
+[23:37:50] [INFO]: size: 197046 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/c9-neIIntegrationMC112.jar
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c9-neIIntegrationMC112.jar
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:C9_NOTENOUGHITEMS10367
+[23:37:50] [INFO]: size: 480102 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/c9-NotEnoughItems10367.jar
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\c9-NotEnoughItems10367.jar
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:EXM1_BANKING100CLIENT
+[23:37:50] [INFO]: size: 290511 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm1-Banking100client.jar
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm1-Banking100client.jar
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:EXM1_WARDROBE
+[23:37:50] [INFO]: size: 109954 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm1-Wardrobe1710v2.jar
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm1-Wardrobe1710v2.jar
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:EXM1_CLANTAGS
+[23:37:50] [INFO]: size: 55584 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm1-ClanTags.jar
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm1-ClanTags.jar
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:EXM1_SUPERPICKAXECLIENT
+[23:37:50] [INFO]: size: 8786 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm1-SuperPickaxe1710client.jar
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm1-SuperPickaxe1710client.jar
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:EXM1_ECONOMYMOD250CLIENT
+[23:37:50] [INFO]: size: 292238 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm1-EconomyMod250client.jar
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm1-EconomyMod250client.jar
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:50] [INFO]: ------------------------------------
+[23:37:50] [INFO]: file: MODS:EXM1_ECONOMYOREMOD
+[23:37:50] [INFO]: size: 91133 bytes
+[23:37:50] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm1-EconomyOreMod20.jar
+[23:37:50] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm1-EconomyOreMod20.jar
+[23:37:50] [INFO]: downloading (attempt: 1)...
+[23:37:51] [INFO]: ------------------------------------
+[23:37:51] [INFO]: file: MODS:EXM1_MULTITHREAD_MIPMAPPING
+[23:37:51] [INFO]: size: 15541 bytes
+[23:37:51] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm1-Multithread-Mipmapping.jar
+[23:37:51] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm1-Multithread-Mipmapping.jar
+[23:37:51] [INFO]: downloading (attempt: 1)...
+[23:37:51] [INFO]: ------------------------------------
+[23:37:51] [INFO]: file: MODS:EXM1_QUANTUMGENERATORS51
+[23:37:51] [INFO]: size: 150959 bytes
+[23:37:51] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm1-QuantumGenerators51.jar
+[23:37:51] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm1-QuantumGenerators51.jar
+[23:37:51] [INFO]: downloading (attempt: 1)...
+[23:37:51] [INFO]: ------------------------------------
+[23:37:51] [INFO]: file: MODS:EXM1_ADVANCEDMACHINES2
+[23:37:51] [INFO]: size: 105346 bytes
+[23:37:51] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm1-AdvancedMachines2.jar
+[23:37:51] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm1-AdvancedMachines2.jar
+[23:37:51] [INFO]: downloading (attempt: 1)...
+[23:37:51] [INFO]: ------------------------------------
+[23:37:51] [INFO]: file: MODS:EXM1_SPAWNWORLD10
+[23:37:51] [INFO]: size: 4411 bytes
+[23:37:51] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm1-SpawnWorld10.jar
+[23:37:51] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm1-SpawnWorld10.jar
+[23:37:51] [INFO]: downloading (attempt: 1)...
+[23:37:51] [INFO]: ------------------------------------
+[23:37:51] [INFO]: file: MODS:EXM1_EXTRAAMULETS
+[23:37:51] [INFO]: size: 923734 bytes
+[23:37:51] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm1-ExtraAmulets.jar
+[23:37:51] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm1-ExtraAmulets.jar
+[23:37:51] [INFO]: downloading (attempt: 1)...
+[23:37:51] [INFO]: ------------------------------------
+[23:37:51] [INFO]: file: MODS:EXM10_MORERECORDS
+[23:37:51] [INFO]: size: 26582355 bytes
+[23:37:51] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm10-MoreRecords.jar
+[23:37:51] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm10-MoreRecords.jar
+[23:37:51] [INFO]: downloading (attempt: 1)...
+[23:37:55] [INFO]: ------------------------------------
+[23:37:55] [INFO]: file: MODS:EXM3_TREASURECHEST12CLIENT
+[23:37:55] [INFO]: size: 1477114 bytes
+[23:37:55] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm3-TreasureChest12client.jar
+[23:37:55] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm3-TreasureChest12client.jar
+[23:37:55] [INFO]: downloading (attempt: 1)...
+[23:37:55] [INFO]: ------------------------------------
+[23:37:55] [INFO]: file: MODS:EXM3_GIFTS1710CLIENT
+[23:37:55] [INFO]: size: 863207 bytes
+[23:37:55] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm3-Gifts1710-client.jar
+[23:37:55] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm3-Gifts1710-client.jar
+[23:37:55] [INFO]: downloading (attempt: 1)...
+[23:37:55] [INFO]: ------------------------------------
+[23:37:55] [INFO]: file: MODS:EXM4_DAILYBONUS11
+[23:37:55] [INFO]: size: 480566 bytes
+[23:37:55] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm4-DailyBonus-11-client.jar
+[23:37:55] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm4-DailyBonus-11-client.jar
+[23:37:55] [INFO]: downloading (attempt: 1)...
+[23:37:55] [INFO]: ------------------------------------
+[23:37:55] [INFO]: file: MODS:EXM4_STARFALL_CLIENT
+[23:37:55] [INFO]: size: 129850 bytes
+[23:37:55] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm4_Starfall-client.jar
+[23:37:55] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm4_Starfall-client.jar
+[23:37:55] [INFO]: downloading (attempt: 1)...
+[23:37:55] [INFO]: ------------------------------------
+[23:37:55] [INFO]: file: MODS:EXM7_TRADE_CLIENT
+[23:37:55] [INFO]: size: 217156 bytes
+[23:37:55] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm7-trade-client.jar
+[23:37:55] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm7-trade-client.jar
+[23:37:55] [INFO]: downloading (attempt: 1)...
+[23:37:55] [INFO]: ------------------------------------
+[23:37:55] [INFO]: file: MODS:EXM7_CRAFTTWEAKERE3013X77
+[23:37:55] [INFO]: size: 911030 bytes
+[23:37:55] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm7-CraftTweaker-3013EX77.jar
+[23:37:55] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm7-CraftTweaker-3013EX77.jar
+[23:37:55] [INFO]: downloading (attempt: 1)...
+[23:37:56] [INFO]: ------------------------------------
+[23:37:56] [INFO]: file: MODS:EXM7_MODTWEAKER096EX77
+[23:37:56] [INFO]: size: 572698 bytes
+[23:37:56] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm7-ModTweaker096EX77.jar
+[23:37:56] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm7-ModTweaker096EX77.jar
+[23:37:56] [INFO]: downloading (attempt: 1)...
+[23:37:56] [INFO]: ------------------------------------
+[23:37:56] [INFO]: file: MODS:EXM7_NOTIFICATIONS
+[23:37:56] [INFO]: size: 69261 bytes
+[23:37:56] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm7-Notifications.jar
+[23:37:56] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm7-Notifications.jar
+[23:37:56] [INFO]: downloading (attempt: 1)...
+[23:37:56] [INFO]: ------------------------------------
+[23:37:56] [INFO]: file: MODS:EXM8_WANDITEMS10
+[23:37:56] [INFO]: size: 5406 bytes
+[23:37:56] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm8-WandItems10.jar
+[23:37:56] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm8-WandItems10.jar
+[23:37:56] [INFO]: downloading (attempt: 1)...
+[23:37:56] [INFO]: ------------------------------------
+[23:37:56] [INFO]: file: MODS:EXM8_DISCORDSUPPORTCLIENT
+[23:37:56] [INFO]: size: 8490936 bytes
+[23:37:56] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm8-DiscordSupportClient1710.jar
+[23:37:56] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm8-DiscordSupportClient1710.jar
+[23:37:56] [INFO]: downloading (attempt: 1)...
+[23:37:56] [INFO]: ------------------------------------
+[23:37:56] [INFO]: file: MODS:EXM8_ITEMICON10
+[23:37:57] [INFO]: size: 442480 bytes
+[23:37:57] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm8_ItemIcon10.jar
+[23:37:57] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm8_ItemIcon10.jar
+[23:37:57] [INFO]: downloading (attempt: 1)...
+[23:37:57] [INFO]: ------------------------------------
+[23:37:57] [INFO]: file: MODS:EXM8_EXQUESTS103
+[23:37:57] [INFO]: size: 1049293 bytes
+[23:37:57] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm8-ExQuests103Client.jar
+[23:37:57] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm8-ExQuests103Client.jar
+[23:37:57] [INFO]: downloading (attempt: 1)...
+[23:37:57] [INFO]: ------------------------------------
+[23:37:57] [INFO]: file: MODS:EXM9_CRAFTITEMS_10
+[23:37:57] [INFO]: size: 60118 bytes
+[23:37:57] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm9-CraftItems-1.0.jar
+[23:37:57] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm9-CraftItems-1.0.jar
+[23:37:57] [INFO]: downloading (attempt: 1)...
+[23:37:57] [INFO]: ------------------------------------
+[23:37:57] [INFO]: file: MODS:EXM9_ITEMFINDER
+[23:37:57] [INFO]: size: 17926 bytes
+[23:37:57] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm9-ItemFinder-1710.jar
+[23:37:57] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm9-ItemFinder-1710.jar
+[23:37:57] [INFO]: downloading (attempt: 1)...
+[23:37:57] [INFO]: ------------------------------------
+[23:37:57] [INFO]: file: MODS:EXM9_BLACKHOLEAMULET
+[23:37:57] [INFO]: size: 16498 bytes
+[23:37:57] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm9-BlackHoleAmulet-1710.jar
+[23:37:57] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm9-BlackHoleAmulet-1710.jar
+[23:37:57] [INFO]: downloading (attempt: 1)...
+[23:37:57] [INFO]: ------------------------------------
+[23:37:57] [INFO]: file: MODS:EXMC1_ADVANCEDTAB2OBF
+[23:37:57] [INFO]: size: 271841 bytes
+[23:37:57] [INFO]: from: http://ex-server.ru/1710_clients/mods/exmc1-AdvancedTab2.jar
+[23:37:57] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exmc1-AdvancedTab2.jar
+[23:37:57] [INFO]: downloading (attempt: 1)...
+[23:37:57] [INFO]: ------------------------------------
+[23:37:57] [INFO]: file: MODS:EXMC2_VKFEED10
+[23:37:57] [INFO]: size: 803002 bytes
+[23:37:57] [INFO]: from: http://ex-server.ru/1710_clients/mods/exmc2-VKfeed10.jar
+[23:37:57] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exmc2-VKfeed10.jar
+[23:37:57] [INFO]: downloading (attempt: 1)...
+[23:37:57] [INFO]: ------------------------------------
+[23:37:57] [INFO]: file: MODS:EXS1_ADVANCEDSOLARPANEL
+[23:37:57] [INFO]: size: 302267 bytes
+[23:37:57] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs1-AdvancedSolarPanel351.jar
+[23:37:57] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs1-AdvancedSolarPanel351.jar
+[23:37:57] [INFO]: downloading (attempt: 1)...
+[23:37:57] [INFO]: ------------------------------------
+[23:37:57] [INFO]: file: MODS:EXS1_APPLIEDENERGISTICS2RV2STABLE
+[23:37:57] [INFO]: size: 2734970 bytes
+[23:37:57] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs1-appliedenergistics2rv2stable.jar
+[23:37:57] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs1-appliedenergistics2rv2stable.jar
+[23:37:57] [INFO]: downloading (attempt: 1)...
+[23:37:57] [INFO]: ------------------------------------
+[23:37:57] [INFO]: file: MODS:EXS1_BIOMESOPLENTY2101169
+[23:37:57] [INFO]: size: 7369047 bytes
+[23:37:57] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs1-BiomesOPlenty2101169.jar
+[23:37:57] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs1-BiomesOPlenty2101169.jar
+[23:37:57] [INFO]: downloading (attempt: 1)...
+[23:37:58] [INFO]: ------------------------------------
+[23:37:58] [INFO]: file: MODS:EXS1_GRAVISUITE203
+[23:37:58] [INFO]: size: 438064 bytes
+[23:37:58] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs1-GraviSuite203.jar
+[23:37:58] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs1-GraviSuite203.jar
+[23:37:58] [INFO]: downloading (attempt: 1)...
+[23:37:58] [INFO]: ------------------------------------
+[23:37:58] [INFO]: file: MODS:EXS1_INDUSTRIALCRAFT828
+[23:37:58] [INFO]: size: 5475287 bytes
+[23:37:58] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs1-industrialcraft828.jar
+[23:37:58] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs1-industrialcraft828.jar
+[23:37:58] [INFO]: downloading (attempt: 1)...
+[23:37:59] [INFO]: ------------------------------------
+[23:37:59] [INFO]: file: MODS:EXS1_MANTLE032DEV
+[23:37:59] [INFO]: size: 199625 bytes
+[23:37:59] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs1-Mantle032DEV.jar
+[23:37:59] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs1-Mantle032DEV.jar
+[23:37:59] [INFO]: downloading (attempt: 1)...
+[23:37:59] [INFO]: ------------------------------------
+[23:37:59] [INFO]: file: MODS:EXS1_IC2NUCLEARCONTROL243A
+[23:37:59] [INFO]: size: 1040234 bytes
+[23:37:59] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs1-IC2NuclearControl243a.jar
+[23:37:59] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs1-IC2NuclearControl243a.jar
+[23:37:59] [INFO]: downloading (attempt: 1)...
+[23:37:59] [INFO]: ------------------------------------
+[23:37:59] [INFO]: file: MODS:EXS1_POWERUTILS104
+[23:37:59] [INFO]: size: 108014 bytes
+[23:37:59] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs1-PowerUtils104.jar
+[23:37:59] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs1-PowerUtils104.jar
+[23:37:59] [INFO]: downloading (attempt: 1)...
+[23:37:59] [INFO]: ------------------------------------
+[23:37:59] [INFO]: file: MODS:EXS10_EMOTESMOD
+[23:37:59] [INFO]: size: 91973 bytes
+[23:37:59] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs10-EmotesMod.jar
+[23:37:59] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs10-EmotesMod.jar
+[23:37:59] [INFO]: downloading (attempt: 1)...
+[23:37:59] [INFO]: ------------------------------------
+[23:37:59] [INFO]: file: MODS:EXS12_ENDERBAGMOD
+[23:37:59] [INFO]: size: 17472 bytes
+[23:37:59] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm12-EnderBagMod.jar
+[23:37:59] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm12-EnderBagMod.jar
+[23:37:59] [INFO]: downloading (attempt: 1)...
+[23:37:59] [INFO]: ------------------------------------
+[23:37:59] [INFO]: file: MODS:EXS12_BAGMOD
+[23:37:59] [INFO]: size: 26406 bytes
+[23:37:59] [INFO]: from: http://ex-server.ru/1710_clients/mods/exm12-Bag-client.jar
+[23:37:59] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exm12-Bag-client.jar
+[23:37:59] [INFO]: downloading (attempt: 1)...
+[23:37:59] [INFO]: ------------------------------------
+[23:37:59] [INFO]: file: MODS:EXS16_DRAGONSRADIO171
+[23:37:59] [INFO]: size: 202657 bytes
+[23:37:59] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs16-DragonsRadio171.jar
+[23:37:59] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs16-DragonsRadio171.jar
+[23:37:59] [INFO]: downloading (attempt: 1)...
+[23:37:59] [INFO]: ------------------------------------
+[23:37:59] [INFO]: file: MODS:EXS2_COFHCORE313327
+[23:37:59] [INFO]: size: 1217636 bytes
+[23:37:59] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs2-CoFHCore313327.jar
+[23:37:59] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs2-CoFHCore313327.jar
+[23:37:59] [INFO]: downloading (attempt: 1)...
+[23:37:59] [INFO]: ------------------------------------
+[23:37:59] [INFO]: file: MODS:EXS2_THERMALDYNAMICS120171
+[23:37:59] [INFO]: size: 619253 bytes
+[23:37:59] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs2-ThermalDynamics120171.jar
+[23:37:59] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs2-ThermalDynamics120171.jar
+[23:37:59] [INFO]: downloading (attempt: 1)...
+[23:37:59] [INFO]: ------------------------------------
+[23:37:59] [INFO]: file: MODS:EXS2_THERMALEXPANSION414247
+[23:37:59] [INFO]: size: 2602602 bytes
+[23:37:59] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs2-ThermalExpansion414247.jar
+[23:37:59] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs2-ThermalExpansion414247.jar
+[23:37:59] [INFO]: downloading (attempt: 1)...
+[23:38:00] [INFO]: ------------------------------------
+[23:38:00] [INFO]: file: MODS:EXS2_THERMALFOUNDATION1256118
+[23:38:00] [INFO]: size: 2327563 bytes
+[23:38:00] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs2-ThermalFoundation126118.jar
+[23:38:00] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs2-ThermalFoundation126118.jar
+[23:38:00] [INFO]: downloading (attempt: 1)...
+[23:38:00] [INFO]: ------------------------------------
+[23:38:00] [INFO]: file: MODS:EXS2_SOLARFLUX08B
+[23:38:00] [INFO]: size: 172179 bytes
+[23:38:00] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs2-SolarFlux08b.jar
+[23:38:00] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs2-SolarFlux08b.jar
+[23:38:00] [INFO]: downloading (attempt: 1)...
+[23:38:00] [INFO]: ------------------------------------
+[23:38:00] [INFO]: file: MODS:EXS3_EXTRAUTILITIES1212
+[23:38:00] [INFO]: size: 2133154 bytes
+[23:38:00] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs3-extrautilities1212.jar
+[23:38:00] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs3-extrautilities1212.jar
+[23:38:00] [INFO]: downloading (attempt: 1)...
+[23:38:00] [INFO]: ------------------------------------
+[23:38:00] [INFO]: file: MODS:EXS3_OPENBLOCKS151
+[23:38:00] [INFO]: size: 2689472 bytes
+[23:38:00] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs3-OpenBlocks151-EX43.jar
+[23:38:00] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs3-OpenBlocks151-EX43.jar
+[23:38:00] [INFO]: downloading (attempt: 1)...
+[23:38:01] [INFO]: ------------------------------------
+[23:38:01] [INFO]: file: MODS:EXS3_OPENMODSLIB091
+[23:38:01] [INFO]: size: 1136677 bytes
+[23:38:01] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs3-OpenModsLib091-EX43.jar
+[23:38:01] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs3-OpenModsLib091-EX43.jar
+[23:38:01] [INFO]: downloading (attempt: 1)...
+[23:38:01] [INFO]: ------------------------------------
+[23:38:01] [INFO]: file: MODS:EXS3_IRONCHEST6062742
+[23:38:01] [INFO]: size: 194713 bytes
+[23:38:01] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs3-ironchest6062742.jar
+[23:38:01] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs3-ironchest6062742.jar
+[23:38:01] [INFO]: downloading (attempt: 1)...
+[23:38:01] [INFO]: ------------------------------------
+[23:38:01] [INFO]: file: MODS:EXS4_BINNIE_MODS20227
+[23:38:01] [INFO]: size: 4494398 bytes
+[23:38:01] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs4-binnie-mods20227.jar
+[23:38:01] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs4-binnie-mods20227.jar
+[23:38:01] [INFO]: downloading (attempt: 1)...
+[23:38:01] [INFO]: ------------------------------------
+[23:38:01] [INFO]: file: MODS:EXS4_FORESTRY42166
+[23:38:01] [INFO]: size: 3317070 bytes
+[23:38:01] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs4-forestry421664.jar
+[23:38:01] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs4-forestry421664.jar
+[23:38:01] [INFO]: downloading (attempt: 1)...
+[23:38:02] [INFO]: ------------------------------------
+[23:38:02] [INFO]: file: MODS:EXS4_FORESTRYEXTRAS231B28FIX
+[23:38:02] [INFO]: size: 285481 bytes
+[23:38:02] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs4-ForestryExtras231B28fix.jar
+[23:38:02] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs4-ForestryExtras231B28fix.jar
+[23:38:02] [INFO]: downloading (attempt: 1)...
+[23:38:02] [INFO]: ------------------------------------
+[23:38:02] [INFO]: file: MODS:EXS4_WASLIECORE11
+[23:38:02] [INFO]: size: 49627 bytes
+[23:38:02] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs4-WaslieCore11.jar
+[23:38:02] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs4-WaslieCore11.jar
+[23:38:02] [INFO]: downloading (attempt: 1)...
+[23:38:02] [INFO]: ------------------------------------
+[23:38:02] [INFO]: file: MODS:EXS5_PROJECTRED46079BASE
+[23:38:02] [INFO]: size: 754192 bytes
+[23:38:02] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs5-ProjectRed46079Base.jar
+[23:38:02] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs5-ProjectRed46079Base.jar
+[23:38:02] [INFO]: downloading (attempt: 1)...
+[23:38:02] [INFO]: ------------------------------------
+[23:38:02] [INFO]: file: MODS:EXS5_PROJECTRED46079INTEGRATION
+[23:38:02] [INFO]: size: 566917 bytes
+[23:38:02] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs5-ProjectRed46079Integration.jar
+[23:38:02] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs5-ProjectRed46079Integration.jar
+[23:38:02] [INFO]: downloading (attempt: 1)...
+[23:38:02] [INFO]: ------------------------------------
+[23:38:02] [INFO]: file: MODS:EXS5_PROJECTRED46079LIGHTING
+[23:38:02] [INFO]: size: 667807 bytes
+[23:38:02] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs5-ProjectRed46079Lighting.jar
+[23:38:02] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs5-ProjectRed46079Lighting.jar
+[23:38:02] [INFO]: downloading (attempt: 1)...
+[23:38:02] [INFO]: ------------------------------------
+[23:38:02] [INFO]: file: MODS:EXS5_PROJECTRED46079WORLD
+[23:38:02] [INFO]: size: 183611 bytes
+[23:38:02] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs5-ProjectRed46079World.jar
+[23:38:02] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs5-ProjectRed46079World.jar
+[23:38:02] [INFO]: downloading (attempt: 1)...
+[23:38:02] [INFO]: ------------------------------------
+[23:38:02] [INFO]: file: MODS:EXS7_WILDCAVES0437
+[23:38:02] [INFO]: size: 90318 bytes
+[23:38:02] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs7-WildCaves0437.jar
+[23:38:02] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs7-WildCaves0437.jar
+[23:38:02] [INFO]: downloading (attempt: 1)...
+[23:38:03] [INFO]: ------------------------------------
+[23:38:03] [INFO]: file: MODS:EXS8_ASIELIB039
+[23:38:03] [INFO]: size: 129179 bytes
+[23:38:03] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs8-AsieLib039.jar
+[23:38:03] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs8-AsieLib039.jar
+[23:38:03] [INFO]: downloading (attempt: 1)...
+[23:38:03] [INFO]: ------------------------------------
+[23:38:03] [INFO]: file: MODS:EXS8_COSMETICWINGS1710CLIENT
+[23:38:03] [INFO]: size: 309413 bytes
+[23:38:03] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs8-CosmeticWings1710client.jar
+[23:38:03] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs8-CosmeticWings1710client.jar
+[23:38:03] [INFO]: downloading (attempt: 1)...
+[23:38:03] [INFO]: ------------------------------------
+[23:38:03] [INFO]: file: MODS:EXS8_DAMAGEINDICATORSMOD323
+[23:38:03] [INFO]: size: 702879 bytes
+[23:38:03] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs8-DamageIndicatorsMod323.jar
+[23:38:03] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs8-DamageIndicatorsMod323.jar
+[23:38:03] [INFO]: downloading (attempt: 1)...
+[23:38:03] [INFO]: ------------------------------------
+[23:38:03] [INFO]: file: MODS:EXS8_STATUES214CLIENT
+[23:38:03] [INFO]: size: 213135 bytes
+[23:38:03] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs8-statues214client.jar
+[23:38:03] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs8-statues214client.jar
+[23:38:03] [INFO]: downloading (attempt: 1)...
+[23:38:03] [INFO]: ------------------------------------
+[23:38:03] [INFO]: file: MODS:EXS8_TREECAPITATOR204
+[23:38:03] [INFO]: size: 94013 bytes
+[23:38:03] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs8-TreeCapitator204.jar
+[23:38:03] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs8-TreeCapitator204.jar
+[23:38:03] [INFO]: downloading (attempt: 1)...
+[23:38:03] [INFO]: ------------------------------------
+[23:38:03] [INFO]: file: MODS:EXS9_HATS401
+[23:38:03] [INFO]: size: 286071 bytes
+[23:38:03] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs9-Hats401.jar
+[23:38:03] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs9-Hats401.jar
+[23:38:03] [INFO]: downloading (attempt: 1)...
+[23:38:03] [INFO]: ------------------------------------
+[23:38:03] [INFO]: file: MODS:EXS9_ICHUNUTIL422
+[23:38:03] [INFO]: size: 217818 bytes
+[23:38:03] [INFO]: from: http://ex-server.ru/1710_clients/mods/exs9-iChunUtil422.jar
+[23:38:03] [INFO]: dest: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\exs9-iChunUtil422.jar
+[23:38:03] [INFO]: downloading (attempt: 1)...
+[23:38:03] [INFO]: Saving server-list caches...
+[23:38:03] [INFO]: ------------------------------------
+[23:38:03] [INFO]: Launching client <INDUSTRIAL>
+[23:38:03] [INFO]: Minecraft version: 1.7.10
+[23:38:03] [INFO]: Performance mode: enbaled
+[23:38:03] [INFO]: Memory size: Optional.emptymb
+[23:38:03] [INFO]: PRE validating context...
+[23:38:04] [INFO]: [23:38:04] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[23:38:04] [INFO]: [23:38:04] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[23:38:04] [INFO]: [23:38:04] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[23:38:04] [INFO]: [23:38:04] [main/INFO]: Forge Mod Loader version 7.10.138.0 for Minecraft 1.7.10 loading
+[23:38:04] [INFO]: [23:38:04] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_221, running on Windows 10:amd64:10.0, installed at C:\Users\nikita\AppData\Roaming\exjava\jvm
+[23:38:04] [INFO]: 2022-03-21 23:38:04,997 main ERROR Could not register mbeans java.security.AccessControlException: access denied ("javax.management.MBeanTrustPermission" "register")
+[23:38:04] [INFO]: 	at java.security.AccessControlContext.checkPermission(AccessControlContext.java:472)
+[23:38:05] [INFO]: 	at java.lang.SecurityManager.checkPermission(SecurityManager.java:585)
+[23:38:05] [INFO]: 	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.checkMBeanTrustPermission(DefaultMBeanServerInterceptor.java:1848)
+[23:38:05] [INFO]: 	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(DefaultMBeanServerInterceptor.java:322)
+[23:38:05] [INFO]: 	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(JmxMBeanServer.java:522)
+[23:38:05] [INFO]: 	at org.apache.logging.log4j.core.jmx.Server.register(Server.java:400)
+[23:38:05] [INFO]: 	at org.apache.logging.log4j.core.jmx.Server.reregisterMBeansAfterReconfigure(Server.java:168)
+[23:38:05] [INFO]: 	at org.apache.logging.log4j.core.jmx.Server.reregisterMBeansAfterReconfigure(Server.java:141)
+[23:38:05] [INFO]: 	at org.apache.logging.log4j.core.LoggerContext.setConfiguration(LoggerContext.java:637)
+[23:38:05] [INFO]: 	at org.apache.logging.log4j.core.LoggerContext.reconfigure(LoggerContext.java:699)
+[23:38:05] [INFO]: 	at org.apache.logging.log4j.core.LoggerContext.reconfigure(LoggerContext.java:716)
+[23:38:05] [INFO]: 	at org.apache.logging.log4j.core.LoggerContext.start(LoggerContext.java:270)
+[23:38:05] [INFO]: 	at org.apache.logging.log4j.core.impl.Log4jContextFactory.getContext(Log4jContextFactory.java:245)
+[23:38:05] [INFO]: 	at org.apache.logging.log4j.core.impl.Log4jContextFactory.getContext(Log4jContextFactory.java:47)
+[23:38:05] [INFO]: 	at org.apache.logging.log4j.LogManager.getContext(LogManager.java:176)
+[23:38:05] [INFO]: 	at org.apache.logging.log4j.LogManager.getLogger(LogManager.java:666)
+[23:38:05] [INFO]: 	at com.gamerforea.minetuner.coremod.CoreMod.<clinit>(CoreMod.java:17)
+[23:38:05] [INFO]: 	at java.lang.Class.forName0(Native Method)
+[23:38:05] [INFO]: 	at java.lang.Class.forName(Class.java:348)
+[23:38:05] [INFO]: 	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:417)
+[23:38:05] [INFO]: 	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:346)
+[23:38:05] [INFO]: 	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:214)
+[23:38:05] [INFO]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90)
+[23:38:05] [INFO]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67)
+[23:38:05] [INFO]: 	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34)
+[23:38:05] [INFO]: 	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126)
+[23:38:05] [INFO]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[23:38:05] [INFO]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[23:38:05] [INFO]: 
+[23:38:05] [INFO]: [23:38:05] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from c0-OptiFineHDUC1.jar
+[23:38:05] [INFO]: [23:38:05] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:38:06] [INFO]: [23:38:06] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: [AppEng] Core Init
+[23:38:06] [INFO]: [23:38:06] [main/WARN]: The coremod ic2.core.coremod.IC2core does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:38:06] [INFO]: [23:38:06] [main/WARN]: The coremod vazkii.emotes.client.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:38:06] [INFO]: [23:38:06] [main/WARN]: The coremod cofh.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:38:06] [INFO]: [23:38:06] [main/WARN]: The coremod openblocks.OpenBlocksCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:38:06] [INFO]: [23:38:06] [main/WARN]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: Loading tweaker forestry.shade.javacheck.Java7Checker from exs4-forestry421664.jar
+[23:38:06] [INFO]: [23:38:06] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:38:06] [INFO]: [23:38:06] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:38:06] [INFO]: [23:38:06] [main/WARN]: The coremod mrtjp.core.handler.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: Loading tweak class name forestry.shade.javacheck.Java7Checker
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: acceptOptions
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: injectIntoClassLoader
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:179]: OptiFine ClassTransformer
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:179]: OptiFine URL: file:/C:/Users/nikita/AppData/Roaming/.exlauncher/clients/industrial/mods/c0-OptiFineHDUC1.jar
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:179]: OptiFine ZIP file: java.util.zip.ZipFile@1a18644
+[23:38:06] [INFO]: [23:38:06] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/ERROR]: The minecraft jar file:/C:/Users/nikita/AppData/Roaming/.exlauncher/clients/libraries/ex/1.7.10/minecraft_1.7.10.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
+[23:38:07] [INFO]: [23:38:07] [main/ERROR]: FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
+[23:38:07] [INFO]: [23:38:07] [main/ERROR]: Technical information: ClientBrandRetriever was at jar:file:/C:/Users/nikita/AppData/Roaming/.exlauncher/clients/libraries/ex/1.7.10/minecraft_1.7.10.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
+[23:38:07] [INFO]: [23:38:07] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Loaded library EJML-core-0.26.jar.
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class forestry.shade.javacheck.Java7Checker
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: getLaunchArguments
+[23:38:07] [INFO]: [23:38:07] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[23:38:08] [INFO]: [23:38:08] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bjf net.minecraft.client.multiplayer.WorldClient
+[23:38:08] [INFO]: [23:38:08] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraftforge.client.GuiIngameForge net.minecraftforge.client.GuiIngameForge
+[23:38:08] [INFO]: [23:38:08] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class yz net.minecraft.entity.player.EntityPlayer
+[23:38:08] [INFO]: 
+[23:38:08] [INFO]: [23:38:08] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bjk net.minecraft.client.entity.EntityClientPlayerMP
+[23:38:08] [INFO]: 
+[23:38:08] [INFO]: [23:38:08] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class blg net.minecraft.client.entity.AbstractClientPlayer
+[23:38:08] [INFO]: 
+[23:38:08] [INFO]: [23:38:08] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Transformed
+[23:38:08] [INFO]: [23:38:08] [main/INFO]: func_146977_a_original(Lnet/minecraft/inventory/Slot;)V - New Method
+[23:38:08] [INFO]: [23:38:08] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Invoke Virtual
+[23:38:09] [INFO]: [23:38:09] [main/INFO]: Setting user: Irz98
+[23:38:10] [INFO]: [OptiFine] (Reflector) Class not present: ModLoader
+[23:38:10] [INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.src.FMLRenderAccessLibrary
+[23:38:10] [INFO]: [OptiFine] (Reflector) Class not present: LightCache
+[23:38:10] [INFO]: [OptiFine] (Reflector) Class not present: BlockCoord
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [cpw.mods.fml.relauncher.ReflectionHelper:getPrivateValue:100]: class net.minecraft.item.ItemPickaxe
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [cpw.mods.fml.relauncher.ReflectionHelper:getPrivateValue:101]: null
+[23:38:10] [INFO]: 0
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [cpw.mods.fml.relauncher.ReflectionHelper:getPrivateValue:100]: class net.minecraft.item.ItemSpade
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [cpw.mods.fml.relauncher.ReflectionHelper:getPrivateValue:101]: null
+[23:38:10] [INFO]: 0
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [cpw.mods.fml.relauncher.ReflectionHelper:getPrivateValue:100]: class net.minecraft.item.ItemAxe
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [cpw.mods.fml.relauncher.ReflectionHelper:getPrivateValue:101]: null
+[23:38:10] [INFO]: 0
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [com.collapse.optifinerus.RusTransformer:patchClass:32]: [optifineRus] Exception rewriting class: java.lang.NullPointerException
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [vazkii.emotes.client.asm.ClassTransformer:log:66]: [Emotes][ASM] Starting on net.minecraft.client.model.ModelBiped
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [vazkii.emotes.client.asm.ClassTransformer:log:66]: [Emotes][ASM] Method is func_78087_a or a for obf.
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [vazkii.emotes.client.asm.ClassTransformer:log:66]: [Emotes][ASM] Descriptor is (FFFFFFLnet/minecraft/entity/Entity;)V or (FFFFFFLsa;)V dor obf.
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [vazkii.emotes.client.asm.ClassTransformer:log:66]: [Emotes][ASM] Found method: a (FFFFFFLsa;)V
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [vazkii.emotes.client.asm.ClassTransformer:log:66]: [Emotes][ASM] RETURN Opcode found
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [vazkii.emotes.client.asm.ClassTransformer:log:66]: [Emotes][ASM] Patched!
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bjb net.minecraft.client.network.NetHandlerPlayClient
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class apx net.minecraft.world.chunk.Chunk
+[23:38:10] [INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[23:38:10] [INFO]: [23:38:10] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:38:10] [INFO]: [OptiFine] 
+[23:38:10] [INFO]: [OptiFine] OptiFine_1.7.10_HD_U_C1
+[23:38:10] [INFO]: [OptiFine] Mon Mar 21 23:38:10 EET 2022
+[23:38:10] [INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[23:38:10] [INFO]: [OptiFine] Java: 1.8.0_221, Oracle Corporation
+[23:38:10] [INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[23:38:10] [INFO]: [OptiFine] LWJGL: 2.9.1
+[23:38:10] [INFO]: [OptiFine] OpenGL: Intel(R) UHD Graphics 620, version 4.5.0 - Build 25.20.100.6444, Intel
+[23:38:10] [INFO]: [OptiFine] OpenGL Version: 4.0
+[23:38:10] [INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[23:38:10] [INFO]: [OptiFine] Maximum texture size: 8192x8192
+[23:38:10] [INFO]: [OptiFine] Checking for new version
+[23:38:11] [INFO]: [23:38:11] [Client thread/ERROR]: Couldn't initialize twitch stream
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.7.10_HD_U_C1, enabling compatibility features
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: MinecraftForge v10.13.3.0 Initialized
+[23:38:11] [INFO]: [OptiFine] Version found: C1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: Replaced 183 ore recipies
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: Preloading CrashReport classes
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.World$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.World$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.World$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.World$4
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.chunk.Chunk$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.crash.CrashReportCategory$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.crash.CrashReportCategory$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.crash.CrashReportCategory$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.entity.Entity$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.entity.Entity$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.entity.EntityTracker$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.gen.layer.GenLayer$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.gen.layer.GenLayer$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.entity.player.InventoryPlayer$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.gen.structure.MapGenStructure$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.gen.structure.MapGenStructure$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.gen.structure.MapGenStructure$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.server.MinecraftServer$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.server.MinecraftServer$4
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.server.MinecraftServer$5
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.nbt.NBTTagCompound$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.nbt.NBTTagCompound$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.network.NetHandlerPlayServer$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.network.NetworkSystem$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.tileentity.TileEntity$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.tileentity.TileEntity$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.tileentity.TileEntity$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.storage.WorldInfo$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.storage.WorldInfo$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.storage.WorldInfo$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.storage.WorldInfo$4
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.storage.WorldInfo$5
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.storage.WorldInfo$6
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.storage.WorldInfo$7
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.storage.WorldInfo$8
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.world.storage.WorldInfo$9
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$4
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$5
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$6
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$7
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$8
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$9
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$10
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$11
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$12
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$13
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$14
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.Minecraft$15
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.multiplayer.WorldClient$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.multiplayer.WorldClient$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.multiplayer.WorldClient$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.multiplayer.WorldClient$4
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.particle,EffectRenderer$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.particle,EffectRenderer$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.particle,EffectRenderer$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.particle,EffectRenderer$4
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.EntityRenderer$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.EntityRenderer$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.EntityRenderer$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.server.integrated.IntegratedServer$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.server.integrated.IntegratedServer$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.RenderGlobal$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.entity.RenderItem$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.entity.RenderItem$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.entity.RenderItem$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.entity.RenderItem$4
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.texture.TextureAtlasSprite$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.texture.TextureManager$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.texture.TextureMap$1
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.texture.TextureMap$2
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: 	net.minecraft.client.renderer.texture.TextureMap$3
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: Completed early MinecraftForge initialization
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: [AppEng] Core Init
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: Searching C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods for mods
+[23:38:11] [INFO]: [23:38:11] [Client thread/INFO]: Also searching C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\mods\1.7.10 for mods
+[23:38:11] [INFO]: [23:38:11] [Client thread/ERROR]: Unable to read a class file correctly
+[23:38:11] [INFO]: java.lang.IllegalArgumentException: null
+[23:38:11] [INFO]: 	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) [ASMModParser.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:72) [JarDiscoverer.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:131) [ModDiscoverer.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:362) [Loader.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:487) [Loader.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:206) [FMLClientHandler.class:?]
+[23:38:11] [INFO]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:483) [bao.class:?]
+[23:38:11] [INFO]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:881) [bao.class:?]
+[23:38:11] [INFO]: 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+[23:38:11] [INFO]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: [23:38:11] [Client thread/ERROR]: There was a problem reading the entry META-INF/versions/9/module-info.class in the jar C:\Users\nikita\AppData\Roaming\.exlauncher\clients\libraries\ex\1.7.10\libforge_1.7.10_v2.jar - probably a corrupt zip
+[23:38:11] [INFO]: cpw.mods.fml.common.LoaderException: java.lang.IllegalArgumentException
+[23:38:11] [INFO]: 
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:72) [JarDiscoverer.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:131) [ModDiscoverer.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:362) [Loader.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:487) [Loader.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:206) [FMLClientHandler.class:?]
+[23:38:11] [INFO]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:483) [bao.class:?]
+[23:38:11] [INFO]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:881) [bao.class:?]
+[23:38:11] [INFO]: 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+[23:38:11] [INFO]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: Caused by: java.lang.IllegalArgumentException
+[23:38:11] [INFO]: 	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+[23:38:11] [INFO]: 	... 16 more
+[23:38:11] [INFO]: [23:38:11] [Client thread/WARN]: Zip file libforge_1.7.10_v2.jar failed to read properly, it will be ignored
+[23:38:11] [INFO]: cpw.mods.fml.common.LoaderException: java.lang.IllegalArgumentException
+[23:38:11] [INFO]: 
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:72) [JarDiscoverer.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:131) [ModDiscoverer.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:362) [Loader.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:487) [Loader.class:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:206) [FMLClientHandler.class:?]
+[23:38:11] [INFO]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:483) [bao.class:?]
+[23:38:11] [INFO]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:881) [bao.class:?]
+[23:38:11] [INFO]: 	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+[23:38:11] [INFO]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_221]
+[23:38:11] [INFO]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: Caused by: java.lang.IllegalArgumentException
+[23:38:11] [INFO]: 	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[libforge_1.7.10_v2.jar:?]
+[23:38:11] [INFO]: 	at cpw.mods.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+[23:38:11] [INFO]: 	... 16 more
+[23:38:12] [INFO]: [23:38:12] [Client thread/INFO]: Mod OptifineAPI is missing the required element 'name'. Substituting OptifineAPI
+[23:38:12] [INFO]: [23:38:12] [Client thread/WARN]: Mod starfall is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[23:38:12] [INFO]: [23:38:12] [Client thread/WARN]: Mod exquests is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.3
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod ExtraUtilities is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.12
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod Botany is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.22.7
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod BinnieCore is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.22.7
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod ExtraBees is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.22.7
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod ExtraTrees is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.22.7
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod Genetics is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.22.7
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod ProjRed|Core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.6.2.52
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod ProjRed|Transmission is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.6.2.52
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod ProjRed|Illumination is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.6.2.52
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod ProjRed|Exploration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.6.2.52
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod DamageIndicatorsMod is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.344
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.344
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.344
+[23:38:13] [INFO]: [23:38:13] [Client thread/WARN]: Mod MrTJPCoreMod is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.8.16
+[23:38:13] [INFO]: [23:38:13] [Client thread/INFO]: Forge Mod Loader has identified 104 mods to load
+[23:38:13] [INFO]: [23:38:13] [Client thread/INFO]: Found mod(s) [PowerUtils] containing declared API package cofh.api.energy (owned by CoFHAPI) without associated API reference
+[23:38:13] [INFO]: [23:38:13] [Client thread/INFO]: Found mod(s) [GraviSuite] containing declared API package buildcraft.api.tools (owned by BuildCraftAPI|core) without associated API reference
+[23:38:14] [INFO]: [23:38:14] [Client thread/INFO]: FML has found a non-mod file exm1-Multithread-Mipmapping.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:38:14] [INFO]: [23:38:14] [Client thread/INFO]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.3.136-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[23:38:14] [INFO]: [23:38:14] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, optifinerus, xaerominimap_core, CodeChickenCore, NotEnoughItems, appliedenergistics2-core, OpenModsCore, <CoFH ASM>, legacymckotlin, hardwareinfo, minetuner, XaeroMinimap, chatbubbles, wecui, IC2BackpackHUD, NEIAddons, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, neiintegration, advancedmachines, guilib, bankingmod, clantag, guifix, economy, economyore, OptifineAPI, extraamulets, quantumgenerators, spawn-world, superpickaxe, wardrobe, more_records, bag, enderbag, gifts, treasure_chest, dailybonus, starfall, MineTweaker3, modtweaker2, notifications, trade, discordsupport, exquests, wanditems, itemicon, blackholeamulet, craftitems, itemfinder, advancedtab, economyutils, vk_feed, AdvancedSolarPanel, appliedenergistics2, BiomesOPlenty, GraviSuite, IC2NuclearControl, IC2, Mantle, PowerUtils, Emotes, DragonsRadioMod, CoFHCore, SolarFlux, ThermalDynamics, ThermalExpansion, ThermalFoundation, ExtraUtilities, IronChest, OpenBlocks, OpenMods, Botany, BinnieCore, ExtraBees, ExtraTrees, Genetics, Forestry, ForestryExtras, WaslieCore, ProjRed|Core, ProjRed|Transmission, ProjRed|Illumination, ProjRed|Exploration, wildcaves3, asielib, cosmeticWings, DamageIndicatorsMod, statues, Treecapitator, Hats, iChunUtil, bspkrsCore, Baubles, ForgeMicroblock, ForgeMultipart, McMultipart, MrTJPCoreMod] at CLIENT
+[23:38:14] [INFO]: [23:38:14] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, optifinerus, xaerominimap_core, CodeChickenCore, NotEnoughItems, appliedenergistics2-core, OpenModsCore, <CoFH ASM>, legacymckotlin, hardwareinfo, minetuner, XaeroMinimap, chatbubbles, wecui, IC2BackpackHUD, NEIAddons, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, neiintegration, advancedmachines, guilib, bankingmod, clantag, guifix, economy, economyore, OptifineAPI, extraamulets, quantumgenerators, spawn-world, superpickaxe, wardrobe, more_records, bag, enderbag, gifts, treasure_chest, dailybonus, starfall, MineTweaker3, modtweaker2, notifications, trade, discordsupport, exquests, wanditems, itemicon, blackholeamulet, craftitems, itemfinder, advancedtab, economyutils, vk_feed, AdvancedSolarPanel, appliedenergistics2, BiomesOPlenty, GraviSuite, IC2NuclearControl, IC2, Mantle, PowerUtils, Emotes, DragonsRadioMod, CoFHCore, SolarFlux, ThermalDynamics, ThermalExpansion, ThermalFoundation, ExtraUtilities, IronChest, OpenBlocks, OpenMods, Botany, BinnieCore, ExtraBees, ExtraTrees, Genetics, Forestry, ForestryExtras, WaslieCore, ProjRed|Core, ProjRed|Transmission, ProjRed|Illumination, ProjRed|Exploration, wildcaves3, asielib, cosmeticWings, DamageIndicatorsMod, statues, Treecapitator, Hats, iChunUtil, bspkrsCore, Baubles, ForgeMicroblock, ForgeMultipart, McMultipart, MrTJPCoreMod] at SERVER
+[23:38:14] [INFO]: [23:38:14] [Client thread/INFO]: Resource cache GC started
+[23:38:15] [INFO]: [23:38:15] [Client thread/ERROR]: The mod IC2 is expecting signature de041f9f6187debbc77034a344134053277aa3b0 for source exs1-industrialcraft828.jar, however there is no signature matching that description
+[23:38:15] [INFO]: [23:38:15] [Client thread/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bix net.minecraft.client.model.ModelRenderer
+[23:38:15] [INFO]: 
+[23:38:15] [INFO]: [23:38:15] [Client thread/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class oi net.minecraft.server.management.ServerConfigurationManager
+[23:38:16] [INFO]: [23:38:16] [Client thread/ERROR]: [Environment Checks] Optifine detected. This may cause issues due to base edits or ASM usage.
+[23:38:17] [INFO]: [23:38:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:optifineRus, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Legacy Minecraft Kotlin, FMLFileResourcePack:HardwareInfo, FMLFileResourcePack:MineTuner, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:ChatBubbles, FMLFileResourcePack:WorldEdit CUI, FMLFileResourcePack:IC2 Backpack HUD, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:Advanced Machines, FMLFileResourcePack:GUI Library, FMLFileResourcePack:BankingMod, FMLFileResourcePack:Clan Tag, FMLFileResourcePack:GuiFix, FMLFileResourcePack:economy, FMLFileResourcePack:Economy Ore Mod, FMLFileResourcePack:OptifineAPI, FMLFileResourcePack:Extra Amulets, FMLFileResourcePack:Quantum Generators, FMLFileResourcePack:Spawn World, FMLFileResourcePack:SuperPickaxe, FMLFileResourcePack:Wardrobe Mod, FMLFileResourcePack:More Records, FMLFileResourcePack:Bag, FMLFileResourcePack:Excalibur EnderBag, FMLFileResourcePack:Gifts, FMLFileResourcePack:Treasure Chest, FMLFileResourcePack:DailyBonus, FMLFileResourcePack:Starfall, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Notifications, FMLFileResourcePack:Trade, FMLFileResourcePack:DiscordSupport, FMLFileResourcePack:EXQuests, FMLFileResourcePack:WandItems, FMLFileResourcePack:Item Icon, FMLFileResourcePack:Black Hole Amulet, FMLFileResourcePack:CraftItems, FMLFileResourcePack:ItemFinder, FMLFileResourcePack:AdvancedTab, FMLFileResourcePack:EconomyUtils, FMLFileResourcePack:VK Feed, FMLFileResourcePack:Advanced Solar Panels, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Graviation Suite, FMLFileResourcePack:Nuclear Control 2, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Mantle, FMLFileResourcePack:PowerUtils, FMLFileResourcePack:Emotes, FMLFileResourcePack:Dragon's Radio Mod, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Solar Flux, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Botany, FMLFileResourcePack:Binnie Core, FMLFileResourcePack:Extra Bees, FMLFileResourcePack:Extra Trees, FMLFileResourcePack:Genetics, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Forestry Extras, FMLFileResourcePack:WaslieCore, FMLFileResourcePack:ProjectRed, FMLFileResourcePack:ProjectRed-Transmission, FMLFileResourcePack:ProjectRed-Illumination, FMLFileResourcePack:ProjectRed-Exploration, FMLFileResourcePack:Wild Caves 3, FMLFileResourcePack:asielib, FMLFileResourcePack:Cosmetic Wings, FMLFileResourcePack:Damage Indicators, FMLFileResourcePack:Statues, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Hats, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MrTJPCore
+[23:38:17] [INFO]: [23:38:17] [Client thread/INFO]: Processing ObjectHolder annotations
+[23:38:17] [INFO]: [23:38:17] [Client thread/INFO]: Found 337 ObjectHolder annotations
+[23:38:17] [INFO]: [23:38:17] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[23:38:17] [INFO]: [23:38:17] [Client thread/INFO]: <RenderChatBubbles Initialized>
+[23:38:17] [INFO]: [23:38:17] [Client thread/INFO]: <ChatBubblesManager Initialized>
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:815)
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:768)
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:717)
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:689)
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:94)
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183)
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145)
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:803)
+[23:38:17] [INFO]: [23:38:17] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	... 4 more
+[23:38:17] [INFO]: [23:38:17] [Client thread/INFO]: Pre Initialization ( started )
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: func_145841_b(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: func_145839_a(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySink from appeng/tile/powersink/IC2 because IC2 integration is enabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Interface Reika.RotaryCraft.API.Power.AdvancedShaftPowerReceiver from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Interface Reika.RotaryCraft.API.Interfaces.Transducerable from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Method Tick_RotaryCraft from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Updated appeng/tile/powersink/RotaryCraft
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/tile/powersink/RedstoneFlux because RF integration is enabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Interface mekanism.api.energy.IStrictEnergyAcceptor from appeng/tile/powersink/MekJoules because Mekanism integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Updated appeng/tile/powersink/MekJoules
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Interface powercrystals.minefactoryreloaded.api.rednet.connectivity.IRedNetConnection from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Method getConnectionType from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Updated appeng/block/networking/BlockCableBus
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/quartz/ToolQuartzWrench because BC integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Updated appeng/items/tools/quartz/ToolQuartzWrench
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Allowing Interface ic2.api.item.ISpecialElectricItem from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Allowing Interface ic2.api.item.IElectricItemManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Allowing Method getManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is enabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyContainerItem from appeng/items/tools/powered/powersink/RedstoneFlux because RFItem integration is enabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/ToolNetworkTool because BC integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Updated appeng/items/tools/ToolNetworkTool
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/misc/PartStorageBus because BC integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Method overridePipeConnection from appeng/parts/misc/PartStorageBus because BC integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Updated appeng/parts/misc/PartStorageBus
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/p2p/PartP2PItems because BC integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Removing Method overridePipeConnection from appeng/parts/p2p/PartP2PItems because BC integration is disabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Updated appeng/parts/p2p/PartP2PItems
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySink from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is enabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Allowing Interface ic2.api.energy.tile.IEnergySource from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is enabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/parts/p2p/PartP2PRFPower because RF integration is enabled.
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Starting AE2 VersionChecker
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Pre Initialization ( ended after 799ms )
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: Version check success: appliedenergistics2 required / rv2-stable-6 detected
+[23:38:18] [INFO]: Exception in thread "AE2 VersionChecker" [23:38:18] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IllegalArgumentException: Raw channel stable did not contain any of the pre-programmed types.
+[23:38:18] [INFO]: [23:38:18] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at appeng.services.version.VersionParser.parseChannel(VersionParser.java:117)
+[23:38:18] [INFO]: [23:38:18] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at appeng.services.version.VersionParser.parseVersion(VersionParser.java:72)
+[23:38:18] [INFO]: [23:38:18] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at appeng.services.version.VersionParser.parse(VersionParser.java:34)
+[23:38:18] [INFO]: [23:38:18] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at appeng.services.version.ModVersionFetcher.get(ModVersionFetcher.java:34)
+[23:38:18] [INFO]: [23:38:18] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at appeng.services.VersionChecker.processInterval(VersionChecker.java:106)
+[23:38:18] [INFO]: [23:38:18] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at appeng.services.VersionChecker.run(VersionChecker.java:86)
+[23:38:18] [INFO]: [23:38:18] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:748)
+[23:38:18] [INFO]: [23:38:18] [Client thread/INFO]: [BiomesOPlenty] Extending Potions Array.
+[23:38:20] [INFO]: [23:38:20] [Client thread/ERROR]: Could not read existing image from: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\assets1710\bopexternal\trails\dev_trail. Attempting redownload.
+[23:38:20] [INFO]: [23:38:20] [Client thread/ERROR]: Could not read existing image from: C:\Users\nikita\AppData\Roaming\.exlauncher\clients\assets1710\bopexternal\trails\donator_trail. Attempting redownload.
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module BuildCraft 6 Fuels Plugin failed to load: Compatible BuildCraftAPI|fuels version not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module BuildCraft 6 Recipes Plugin failed to load: Compatible BuildCraftAPI|recipes version not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module BuildCraft 6 Statements Plugin failed to load: Compatible BuildCraftAPI|statements version not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module BuildCraft 6 Transport Plugin failed to load: BuildCraft|Transport not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module AgriCraft Plugin failed to load: AgriCraft not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module Chisel Plugin failed to load: Chisel not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module EnderIO Plugin failed to load: EnderIO not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module Erebus Plugin failed to load: Erebus not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module Growthcraft Plugin failed to load: GrowthCraft not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module HarvestCraft Plugin failed to load: HarvestCraft not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module ImmersiveEngineering Plugin failed to load: Immersive Engineering not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module MagicalCrops Plugin failed to load: Magical Crops not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module MineFactoryReloaded Plugin failed to load: MineFactoryReloaded not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module Natura Plugin failed to load: Natura not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module PlantMegaPack Plugin failed to load: Plant Mega Pack not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module RotaryCraft Plugin failed to load: RotaryCraft not found
+[23:38:21] [INFO]: [23:38:21] [Client thread/INFO]: Module Witchery Plugin failed to load: Witchery not found
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for compressedPlantBall
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: [ic2.api.item.IC2Items:getItem:36]: IC2 API: Call getItem failed for matter
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Version check success: Botany required / 2.0.22.7 detected
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Version check success: Forestry@[4.0.8.36,) required / 4.2.16.64 detected
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Required mod exnihilo is not installed, dependent features will be unavailable
+[23:38:22] [INFO]: [23:38:22] [Client thread/ERROR]: Requirements unmet, Ex Nihilo Addon not loading
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Starting NEI Integration
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Loading configuration files
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Loaded <11> amulets
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Loading configurations...
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Loading icons
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Loading notifications
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: ==================================
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Registering chests:
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'admin/admin1-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'admin/arkana1-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'golosa/golos1-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'golosa/golos2-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'donate/donate1-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'donate/donate2-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'donate/donate3-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'donate/donate4-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'casual/casual1-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'casual/casual2-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'casual/casual3-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'infinity/infinity1-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'infinity/infinity2-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'infinity/infinity3-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register chest 'event/event1-chest'
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: ==================================
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Loading meteors...
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register meteor <mods>
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register meteor <rare>
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register meteor <mythical>
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register meteor <legendary>
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Register meteor <arcana>
+[23:38:22] [INFO]: [23:38:22] [Client thread/INFO]: Starting PreInitialization for modtweaker2
+[23:38:23] [INFO]: [23:38:23] [CoFHUpdater:CoFHCore/ERROR]: Update check for CoFH Core failed.
+[23:38:23] [INFO]: java.net.MalformedURLException: unknown protocol: hhttps
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:607) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:497) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:446) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at cofh.mod.updater.UpdateCheckThread.run(UpdateCheckThread.java:53) [UpdateCheckThread.class:?]
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Registering Default Templates.
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Registering default generators
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Complete
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Mantle (1.7.10-0.3.2.DEV.GITBORK) -- Preparing for launch.
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Entering preinitialization phase.
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Loading configuration from disk.
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Configuration load completed.
+[23:38:23] [INFO]: [23:38:23] [CoFHUpdater:ThermalFoundation/ERROR]: Update check for Thermal Foundation failed.
+[23:38:23] [INFO]: java.net.MalformedURLException: unknown protocol: hhttps
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:607) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:497) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:446) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at cofh.mod.updater.UpdateCheckThread.run(UpdateCheckThread.java:53) [UpdateCheckThread.class:?]
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Thermal Foundation: Loading Plugins...
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Thermal Foundation: Finished Loading Plugins.
+[23:38:23] [INFO]: [23:38:23] [CoFHUpdater:ThermalExpansion/ERROR]: Update check for Thermal Expansion failed.
+[23:38:23] [INFO]: java.net.MalformedURLException: unknown protocol: hhttps
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:607) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:497) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:446) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at cofh.mod.updater.UpdateCheckThread.run(UpdateCheckThread.java:53) [UpdateCheckThread.class:?]
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: ThermalExpansion: Loading Plugins...
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Thermal Expansion: Finished Loading Plugins.
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Pre Initialization
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Initialization of configuration
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Configuration saved
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Registering blocks
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Registering items
+[23:38:23] [INFO]: [23:38:23] [CoFHUpdater:ThermalDynamics/ERROR]: Update check for Thermal Dynamics failed.
+[23:38:23] [INFO]: java.net.MalformedURLException: unknown protocol: hhttps
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:607) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:497) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at java.net.URL.<init>(URL.java:446) ~[?:1.8.0_221]
+[23:38:23] [INFO]: 	at cofh.mod.updater.UpdateCheckThread.run(UpdateCheckThread.java:53) [UpdateCheckThread.class:?]
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Loading Plugins...
+[23:38:23] [INFO]: [23:38:23] [Client thread/INFO]: Finished Loading Plugins.
+[23:38:24] [INFO]: [23:38:24] [Client thread/INFO]: Hello World
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item guide (from field public static openblocks.common.block.BlockGuide openblocks.OpenBlocks$Blocks.guide) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item builder_guide (from field public static openblocks.common.block.BlockBuilderGuide openblocks.OpenBlocks$Blocks.builderGuide) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item grave (from field public static openblocks.common.block.BlockGrave openblocks.OpenBlocks$Blocks.grave) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item cannon (from field public static openblocks.common.block.BlockCannon openblocks.OpenBlocks$Blocks.cannon) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item sponge (from field public static openblocks.common.block.BlockSponge openblocks.OpenBlocks$Blocks.sponge) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item xpdrain (from field public static openblocks.common.block.BlockXPDrain openblocks.OpenBlocks$Blocks.xpDrain) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item blockbreaker (from field public static openblocks.common.block.BlockBlockBreaker openblocks.OpenBlocks$Blocks.blockBreaker) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item blockPlacer (from field public static openblocks.common.block.BlockBlockPlacer openblocks.OpenBlocks$Blocks.blockPlacer) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item itemDropper (from field public static openblocks.common.block.BlockItemDropper openblocks.OpenBlocks$Blocks.itemDropper) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item sky (from field public static openblocks.common.block.BlockSky openblocks.OpenBlocks$Blocks.sky) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item xpshower (from field public static openblocks.common.block.BlockXPShower openblocks.OpenBlocks$Blocks.xpShower) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item goldenegg (from field public static openblocks.common.block.BlockGoldenEgg openblocks.OpenBlocks$Blocks.goldenEgg) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item luggage (from field public static openblocks.common.item.ItemLuggage openblocks.OpenBlocks$Items.luggage) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item sonicglasses (from field public static openblocks.common.item.ItemSonicGlasses openblocks.OpenBlocks$Items.sonicGlasses) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item craneControl (from field public static openblocks.common.item.ItemCraneControl openblocks.OpenBlocks$Items.craneControl) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item craneBackpack (from field public static openblocks.common.item.ItemCraneBackpack openblocks.OpenBlocks$Items.craneBackpack) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item cursor (from field public static openblocks.common.item.ItemCursor openblocks.OpenBlocks$Items.cursor) is disabled
+[23:38:25] [INFO]: [23:38:25] [Client thread/INFO]: openmods.config.game.GameConfigProvider.processAnnotations(GameConfigProvider.java:150): Item devnull (from field public static openblocks.common.item.ItemDevNull openblocks.OpenBlocks$Items.devNull) is disabled
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: https://dl.dropboxusercontent.com/u/46500170/Site/donator_list.txt
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivileged(Native Method)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.net.URL.openStream(URL.java:1057)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at wasliecore.helpers.FileHelper.addDonators(FileHelper.java:109)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at wasliecore.main.WaslieCore.preInit(WaslieCore.java:51)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.Loader.preinitializeMods(Loader.java:533)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:241)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:483)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:881)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.client.main.Main.main(SourceFile:148)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [wasliecore.main.WaslieCore:preInit:55]: WaslieCore is brought to you by wasliebob
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.net.MalformedURLException: unknown protocol: httpp
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.net.URL.<init>(URL.java:607)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.net.URL.<init>(URL.java:497)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.net.URL.<init>(URL.java:446)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.data.IO$.forceReadBuffer(IO.scala:24)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.data.IO$.forceRead(IO.scala:15)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.data.UpdateChecker$class.projectMD(UpdateChecker.scala:36)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.handler.CoreUpdateChecker.projectMD(CoreUpdateChecker.scala:10)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.data.UpdateChecker$class.downloadVersions(UpdateChecker.scala:50)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.handler.CoreUpdateChecker.downloadVersions(CoreUpdateChecker.scala:10)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.data.UpdateChecker$class.$init$(UpdateChecker.scala:39)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.handler.CoreUpdateChecker.<init>(CoreUpdateChecker.scala:10)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.handler.MrTJPCoreProxy_client.preInit(proxies.scala:37)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.handler.MrTJPCoreMod$.preInit(mod.scala:27)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.handler.MrTJPCoreMod.preInit(mod.scala)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.Loader.preinitializeMods(Loader.java:533)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:241)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:483)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:881)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.client.main.Main.main(SourceFile:148)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[23:38:27] [INFO]: [23:38:27] [MrTJPCore version checker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.IndexOutOfBoundsException: 0
+[23:38:27] [INFO]: [23:38:27] [MrTJPCore version checker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:51)
+[23:38:27] [INFO]: [23:38:27] [MrTJPCore version checker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at scala.collection.immutable.List.apply(List.scala:83)
+[23:38:27] [INFO]: [23:38:27] [MrTJPCore version checker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.data.UpdateChecker$class.latestVersion(UpdateChecker.scala:43)
+[23:38:27] [INFO]: [23:38:27] [MrTJPCore version checker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.handler.CoreUpdateChecker.latestVersion(CoreUpdateChecker.scala:10)
+[23:38:27] [INFO]: [23:38:27] [MrTJPCore version checker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.data.UpdateChecker$class.isVersionOutdated(UpdateChecker.scala:93)
+[23:38:27] [INFO]: [23:38:27] [MrTJPCore version checker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.handler.CoreUpdateChecker.isVersionOutdated(CoreUpdateChecker.scala:10)
+[23:38:27] [INFO]: [23:38:27] [MrTJPCore version checker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.data.UpdateChecker$class.run(UpdateChecker.scala:115)
+[23:38:27] [INFO]: [23:38:27] [MrTJPCore version checker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at mrtjp.core.handler.CoreUpdateChecker.run(CoreUpdateChecker.scala:10)
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: Loading Cosmetic Wings 0.4.2
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: Loading configuration file C:\Users\nikita\AppData\Roaming\.exlauncher\clients\industrial\config\Treecapitator.cfg
+[23:38:27] [INFO]: [23:38:27] [Client thread/INFO]: Looks like a fresh config; default config loaded.
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: https://dl.dropbox.com/u/7477047ads8/DdsaamageIndicatorMod1710.txt
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896)
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490)
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488)
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivileged(Native Method)
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487)
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.net.URL.openStream(URL.java:1057)
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at DamageIndicatorsMod.client.DIClientProxy$1.run(DIClientProxy.java:79)
+[23:38:28] [INFO]: [23:38:28] [Thread-8/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:748)
+[23:38:28] [INFO]: [23:38:28] [Client thread/INFO]: Applying holder lookups
+[23:38:28] [INFO]: [23:38:28] [Client thread/INFO]: Holder lookups applied
+[23:38:28] [INFO]: [OptiFine] *** Reloading textures ***
+[23:38:28] [INFO]: [OptiFine] Resource packs: Default
+[23:38:28] [INFO]: [23:38:28] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/patrons.json
+[23:38:28] [INFO]: [23:38:28] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896)
+[23:38:28] [INFO]: [23:38:28] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[23:38:28] [INFO]: [23:38:28] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490)
+[23:38:28] [INFO]: [23:38:28] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488)
+[23:38:28] [INFO]: [23:38:28] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivileged(Native Method)
+[23:38:28] [INFO]: [23:38:28] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[23:38:28] [INFO]: [23:38:28] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487)
+[23:38:28] [INFO]: [23:38:28] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[23:38:28] [INFO]: [23:38:28] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.net.URL.openStream(URL.java:1057)
+[23:38:28] [INFO]: [23:38:28] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ichun.client.thread.ThreadGetPatrons.run(ThreadGetPatrons.java:30)
+[23:38:28] [INFO]: [23:38:28] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[23:38:28] [INFO]: [23:38:28] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[23:38:28] [INFO]: [23:38:28] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[23:38:28] [INFO]: [23:38:28] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[23:38:28] [INFO]: [23:38:28] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
